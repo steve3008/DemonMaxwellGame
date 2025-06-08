@@ -1,6 +1,6 @@
 # Introduction
 
-This is the MS Visual Studio 2022 solution containing the Maxwell's Demon mobile phone game Project. It is a casual game which has so far only been released for Android (intended specifically for Android phones). But I intend to eventually release an iOS version too. The code changes needed for this will hopefully be minor, but the release process will be loneg-winded. Hence I haven't done it yet.
+This is the MS Visual Studio 2022 solution containing the Maxwell's Demon mobile phone game Project. It is a casual game which has so far only been released for Android (intended specifically for Android phones). But I intend to eventually release an iOS version too. The code changes needed for this will hopefully be minor, but the release process will be long-winded. Hence I haven't done it yet.
 
 # The Code
 
