@@ -1,0 +1,25 @@
+1
+Bomb Push
+45
+7
+2
+True
+--Walls--
+4
+Horizontal
+(0.1,0.9,0.1),(False,False),False,True,1,True,-1
+Horizontal
+(0.1,0.9,0.9),(False,False),False,True,1,True,-1
+Vertical
+(0.1,0.9,0.1),(False,False),False,True,1,True,-1
+Vertical
+(0.1,0.9,0.9),(False,False),False,True,1,True,-1
+--Balls--
+14
+2
+Grid
+8
+(0.2,0.68,0.601,0.16),(0.2,0.15),0.03,(32,32,2),(0.1,0.1,0.8,0.05),Bomb,True,True
+Grid
+6
+(0.2,0.25,0.601,0.16),(0.3,0.15),0.03,(255,255,0),(0,0,0,0),Normal,False,False
